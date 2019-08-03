@@ -18,7 +18,7 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 In this project, I was originally interestested in identifying the best technical indicators to predict stock price movement, either up or down using pre-calculated technical indicator based on historical stock data. In the attempts to achieve this, I have realized that the accuracy obtained is not as high as I had hoped for. Therefore, this project then aims to
 
-1. Compare the accuracy of prediction using SVW, SVM with PCA and Neural Networks.
+1. Compare the accuracy of prediction using SVW, SVM with PCA, and Neural Networks.
 2. What are the most weighted indicators in the top PCA components?
 3. Based on this data, can we visualize the data to see if we can really separate the two classes, price up or down?
 
