@@ -1,6 +1,6 @@
 # DayTraders
 Best Stock Market Indicators for Day Traders   
-Is it possible to predict tomorrow's price up or down
+Is it possible to predict tomorrow's price up or down?
 
 ### Table of Contents
 
