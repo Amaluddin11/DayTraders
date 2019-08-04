@@ -29,7 +29,7 @@ The notebook showing step by step from data cleaning to the three models is avai
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The main findings of the code can be found at the post available [here](https://medium.com/@amaluddin11/best-indicators-for-day-traders-198e00065e).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
