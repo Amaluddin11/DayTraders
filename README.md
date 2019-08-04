@@ -33,6 +33,5 @@ The main findings of the code can be found at the post available [here](https://
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-The data was originally published by [Elsevier Data in Brief](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5219605/)
- 
+The Copyright and License information for the data can be referred at [Elsevier Data in Brief](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5219605/) where the data was originally published. Otherwise, feel free to use the code here as you would like!
 
